@@ -1,5 +1,5 @@
 # Introduction
-UD has a current website (http://shemenmusic.com/victory/)[http://shemenmusic.com/victory/], however, this version is super slow and laggy. It sometimes take v
+UD has a current website [http://shemenmusic.com/victory/](http://shemenmusic.com/victory/), however, this version is super slow and laggy. It sometimes take v
 forever to get what you need.   
 This platform is an initiative to implement a completely new thing to achieve the same and more but in a more efficient way. 
 This platform uses `web scraping` mechanism to fetch data from the current website, but it takes time only if it has never been search by anyone from this 
